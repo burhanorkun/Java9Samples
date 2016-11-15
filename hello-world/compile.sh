@@ -1,0 +1,1 @@
+javac src/module-info.java src/com/hello/Hello.java -d dist
